@@ -1,10 +1,7 @@
 $N="
 Never gonna"
-$y=" you up"
-$l="#$N give#$y#$N let you down#$N run around and desert you#$N make you cry#$N say goodbye#$N tell a lie and hurt you
+$l="#$N give you up#$N let you down#$N run around and desert you#$N make you cry#$N say goodbye#$N tell a lie and hurt you
 "
-$O="
-(Ooh"
 $W="
 We've known each other for so long
 Your heart's been aching but
@@ -22,7 +19,9 @@ A full commitment's what I'm thinking of
 You wouldn't get this from any other guy#$I#$W
 And if you ask me#$h
 Don't tell me you're too blind to see
-"+$l*2+"#$O, give#$y)"*2+"#$O)#$N give, never gonna give
-(Give#$y)"*2+"
+"+$l*2+"
+(Ooh, give you up)"*2+"
+(Ooh)#$N give, never gonna give
+(Give you up)"*2+"
 #$W
 "+$I+$l*2

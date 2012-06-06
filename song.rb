@@ -1,8 +1,7 @@
 $N="
 Never gonna"
 $y=" you up"
-$g=' give'+$y
-$l="#$N#$g#$N let you down#$N run around and desert you#$N make you cry#$N say goodbye#$N tell a lie and hurt you
+$l="#$N give#$y#$N let you down#$N run around and desert you#$N make you cry#$N say goodbye#$N tell a lie and hurt you
 "
 $O="
 (Ooh"
@@ -23,7 +22,7 @@ A full commitment's what I'm thinking of
 You wouldn't get this from any other guy#$I#$W
 And if you ask me#$h
 Don't tell me you're too blind to see
-"+$l*2+"#$O,#$g)"*2+"#$O)#$N give, never gonna give
+"+$l*2+"#$O, give#$y)"*2+"#$O)#$N give, never gonna give
 (Give#$y)"*2+"
 #$W
 "+$I+$l*2

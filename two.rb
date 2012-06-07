@@ -1,4 +1,4 @@
-def f(s);s.gsub(/%(\d+)/){[" you","\nYou","
+def f s;s.gsub(/%(\d+)/){[" you","\nYou","
 N%11","
 %2g%6%2let%0 down%2run around and desert%0%2make%0 cry%2say goodbye%2tell a lie and hurt%0","
 

@@ -11,7 +11,7 @@ I just wanna tell%0","
 (Ooh","%8, g%6)"," how I'm feeling","ever gonna ","%11give","
 N%12, n%12
 "][$1.to_i]}end
-puts f f f "We're no strangers to love%1 know the rules and so do I
+puts f f f"We're no strangers to love%1 know the rules and so do I
 A full commitment's what I'm thinking of%1 wouldn't get this from any other guy%7%10%5%3%4And if%0 ask me%10
 Don't tell me%0're too blind to see%3%3
 %9%9%8)%13(G%6)%8)%13(G%6)%4%7%10%5%3%3%3"

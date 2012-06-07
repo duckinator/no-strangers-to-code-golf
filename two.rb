@@ -12,6 +12,6 @@ I just wanna tell0","
 N12, n12
 "][$1.to_i]}end
 puts f f f"We're no strangers to love1 know the rules and so do I
-A full commitment's what I'm thinking of%01 wouldn't get this from any other guy7%10%5%3%4And if0 ask me10
+A full commitment's what I'm thinking of1 wouldn't get this from any other guy7%10%5%3%4And if0 ask me10
 Don't tell me0're too blind to see3%3
 9%9%8)13(G6)8)13(G6)4%7%10%5%3%3%3"
